@@ -3,15 +3,21 @@
 <h3 align="center"> Solution Engineer based in Tokyo, Japan | Focusing on Front-End Development</h3>
 <p align="left"> 
   <div>
-    <img src="https://komarev.com/ghpvc/?username=hikaruminagawa" alt="hikaruminagawa" />
+    <a href="https://github.com/hikaruminagawa">
+      <img src="https://komarev.com/ghpvc/?username=hikaruminagawa" alt="hikaruminagawa" />
+    </a>
     <img height="20" src="https://qiita-badge.apiapi.app/s/hikaru37111/contributions.svg" />
     <img height="20" src="https://qiita-badge.apiapi.app/s/hikaru37111/posts.svg" />
   </a>
   </div>
 </p>
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hikaruminagawa&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=hikaruminagawa&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+  <a href="https://github.com/hikaruminagawa">
+    <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hikaruminagawa&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+  </a>
+  <a href="https://github.com/hikaruminagawa">
+    <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=hikaruminagawa&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+  </a>
 </p>
 
 
