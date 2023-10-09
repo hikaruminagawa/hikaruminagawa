@@ -1,7 +1,11 @@
 
 <h1 align="center">Hi there 👋</h1>
 
-<h3 align="center"> Solution Engineer based in Tokyo, Japan | Focusing on Front-End Development</h3>
+<h3 align="center"> 
+  <a href="https://www.linkedin.com/in/hikaru-minagawa/">
+    Solution Engineer based in Tokyo, Japan | Focusing on Front-End Development
+  </a>
+</h3>
 
 <p align="left"> 
   <div>
