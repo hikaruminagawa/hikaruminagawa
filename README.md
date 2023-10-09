@@ -1,9 +1,11 @@
 ### Hi there 👋
+---
+Solution Engineer based in Tokyo, Japan | Focusing on Front-End Development
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hikaruminagawa
 )](https://github.com/anuraghazra/github-readme-stats)
 
-[![Hikaru's GitHub stats](https://github-readme-stats.vercel.app/api?username=hikaruminagawa)]
+![Hikaru's GitHub stats](https://github-readme-stats.vercel.app/api?username=hikaruminagawa)
 
 
 
