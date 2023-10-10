@@ -12,8 +12,9 @@
     <a href="https://github.com/hikaruminagawa">
       <img src="https://komarev.com/ghpvc/?username=hikaruminagawa" alt="hikaruminagawa" />
     </a>
-    <img height="20" src="https://qiita-badge.apiapi.app/s/hikaru37111/contributions.svg" />
-    <img height="20" src="https://qiita-badge.apiapi.app/s/hikaru37111/posts.svg" />
+    <a href="https://qiita.com/hikaru37111">
+      <img height="20" src="https://qiita-badge.apiapi.app/s/hikaru37111/contributions.svg" />
+      <img height="20" src="https://qiita-badge.apiapi.app/s/hikaru37111/posts.svg" />
   </a>
   </div>
 </p>
