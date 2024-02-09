@@ -3,7 +3,7 @@
 
 <h3 align="center"> 
   <a href="https://www.linkedin.com/in/hikaru-minagawa/">
-    Solution Engineer based in Tokyo, Japan | Focusing on Front-End Development
+    Solution Engineer based in Tokyo | Microsoft Japan
   </a>
 </h3>
 
